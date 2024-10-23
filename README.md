@@ -14,12 +14,12 @@
 ---
 
 <div align="center">
-  <img src=".github/assets/demo_1.svg" width="30%"/>
-  <img src=".github/assets/demo_2.svg" width="30%"/>
-  <img src=".github/assets/demo_3.svg" width="30%"/>
-  <img src=".github/assets/demo_4.svg" width="30%"/>
-  <img src=".github/assets/demo_5.svg" width="30%"/>
-  <img src=".github/assets/demo_6.svg" width="30%"/>
+  <img src=".github/assets/demo_1.svg" width="30%" height="40" />
+  <img src=".github/assets/demo_2.svg" width="30%" height="40" />
+  <img src=".github/assets/demo_3.svg" width="30%" height="40" />
+  <img src=".github/assets/demo_4.svg" width="30%" height="40" />
+  <img src=".github/assets/demo_5.svg" width="30%" height="40" />
+  <img src=".github/assets/demo_6.svg" width="30%" height="40" />
 </div>
 
 ---
