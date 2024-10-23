@@ -1,8 +1,8 @@
 <div align="center">
   <h1>ḠĿ𐪌𐌕ꛕ𖩘꠵ⵤ</h1>
   <h4>generate animated pseudo random glitch SVG from ASCII characters</h4>
-  <img src=".github/assets/glitcher.svg" width="256px"/>
-  <img src=".github/assets/logo.svg" width="256px"/>
+  <img src=".github/assets/glitcher.svg" width="45%"/>
+  <img src=".github/assets/logo.svg" width="45%"/>
 </div>
 
 ---
@@ -14,12 +14,12 @@
 ---
 
 <div align="center">
-  <img src=".github/assets/demo_1.svg" width="256px"/>
-  <img src=".github/assets/demo_2.svg" width="256px"/>
-  <img src=".github/assets/demo_3.svg" width="256px"/>
-  <img src=".github/assets/demo_4.svg" width="256px"/>
-  <img src=".github/assets/demo_5.svg" width="256px"/>
-  <img src=".github/assets/demo_6.svg" width="256px"/>
+  <img src=".github/assets/demo_1.svg" width="30%"/>
+  <img src=".github/assets/demo_2.svg" width="30%"/>
+  <img src=".github/assets/demo_3.svg" width="30%"/>
+  <img src=".github/assets/demo_4.svg" width="30%"/>
+  <img src=".github/assets/demo_5.svg" width="30%"/>
+  <img src=".github/assets/demo_6.svg" width="30%"/>
 </div>
 
 ---
